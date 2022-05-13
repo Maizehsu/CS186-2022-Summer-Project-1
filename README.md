@@ -6,6 +6,6 @@
 
 <br>
 
-You can find the project handout **here** and the latest version of this project [here](https://cs186.gitbook.io/project/assignments/proj1/your-tasks). Note that the project handout on gitbook updates from year to year. 
+You can find the project handout [here](https://github.com/Maizehsu/CS186-2022-Summer-Joe-Hellerstein/tree/main/Proj-handouts/proj1) and the latest version of this project [here](https://cs186.gitbook.io/project/assignments/proj1/your-tasks). Note that the project handout on gitbook updates from year to year. 
 
 Version: *2022 Spring*.
